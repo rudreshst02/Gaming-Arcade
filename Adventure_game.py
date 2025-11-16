@@ -19,14 +19,3 @@ elif choice1 == 'no':
     print('You want something to drink and eat now after the bear event.\nYou saw a diet coke and a redbull.')
 
     choice3 = int(input('1 --> Diet Coke\n2 --> Redbull\nPick your choice: '))
-        
-
-
-
-
-    
-    
-
-
-
-
