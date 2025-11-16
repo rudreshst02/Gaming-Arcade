@@ -21,3 +21,10 @@ elif choice1 == 'no':
     print('You want something to drink and eat now after the bear event.\nYou saw a diet coke and a redbull\n')
 
     choice3 = int(input('1 -->diet coke\n2 -->redbull\nPick your choice:\n'))
+
+  # he meets trinity again
+    # offer of ride yes or no
+    # he will call a cab
+    # shopkeeper while checking out tells the story of trinity killer matching his story he now he knows that man was the trinity killer but cant prove it
+    # Goes home safely 
+    # end
