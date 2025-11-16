@@ -7,5 +7,29 @@ if choice1 == 'yes':
 
 elif choice1 == 'No':
     print("You said yes and now regretting your decision")
+    
+    print('You came to a decision to walk to the nearest gas station , it was 15 min away via walking\n\nwalking.....................\nYou saw something like a bear but you are not sure\n\nYou have two thoughts now:\n\n1)run faster silently\n2)walk in a usual speed ignoring the danger')
+    
+    choice2 == int(input('Enter your choice\n\n1 -->Run\n2 -->ignore the danger and continue... :'))
+    if choice2 == 1:
+        print("Running..... huh huh huh... You saw the gas station")
+
+    elif choice2 == 2:
+        print("walking..... oops !! You heared bears voice and started running ..... You survived and saw the gas station")
+
+    print('You want something to drink and eat now after the bear event \nYou saw a diet coke and a redbull'\n')
+
+    choice3 = int(input('1 -->diet coke\n2 -->redbull\nPick your choice:\n'))
+
+
+        
+
+
+
+
+    
+    
+
+
 
 
